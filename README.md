@@ -18,5 +18,4 @@ Here’s a little about me:
 - ⚡ Fun fact: I live in Croatia but I’m originally from Argentina. I have a deep interest in coding, and I’m also passionate about drawing, nature, and the Pokémon TCG!
 
 ## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@leanXXII/30-nites-of-code)  
   ![@leanXXII #30NitesOfCode](https://www.codedex.io/api/petStatus?user=leanXXII)
