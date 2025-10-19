@@ -6,8 +6,8 @@ I’m passionate about building clean, scalable, and efficient code, while also 
 
 Here’s a little about me:
 
-- 🔭 My journey began as a front-end dev in a startup, where I deeply learned the fundamentals of frontend development. Now, we are exploring design systems, Sass, and Tailwind CSS.
-- 🚀 As a personal improve, I’m working on my firsts React projects, hands-on experience to deepen my understanding of both front-end and back-end technologies.
+- 🔭 My journey began as a front-end dev in a startup, where I deeply learned the fundamentals of frontend development.
+- 🚀 As a personal improve, I’m working on my academic React projects, hands-on experience to deepen my understanding of both front-end and back-end technologies.
 
 - 🌱 I’m studying a higher technical degree in programming, where I’m learning more about object-oriented programming and system development in JS and C#.
 - 👾 My goal is to continue advancing in my career by mastering modern web development technologies, contributing to open-source projects, and becoming a well-rounded full-stack developer.
