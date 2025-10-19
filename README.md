@@ -15,7 +15,7 @@ Here’s a little about me:
 - 👯 I’m looking to collaborate on open-source front-end projects or any interesting full-stack web development initiatives to challenge myself and learn from others.
 - 📫 Looking forward to new opportunities and work. You can reach me through my GitHub or my [LinkedIn](https://www.linkedin.com/in/leanbilokapic/).
 
-- ⚡ Fun fact: I live in Croatia but I’m originally from Argentina. I have a deep interest in coding, and I’m also passionate about drawing, nature, and the Pokémon TCG!
+- ⚡ Fun fact: I lived in Croatia for 4 years but I’m originally from Argentina. I have a deep interest in coding, and I’m also passionate about drawing, nature, and the Pokémon TCG!
 
 ## #30NitesOfCode:
   ![@leanXXII #30NitesOfCode](https://www.codedex.io/api/petStatus?user=leanXXII)
