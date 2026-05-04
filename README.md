@@ -1,21 +1,17 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm Lean, a dedicated front-end developer focused on continuous learning and improvement.
+Welcome to my GitHub profile! I'm Lean, a front-end developer focused on building clean and maintainable web applications.
 
-I’m passionate about building clean, scalable, and efficient code, while also developing my skills to become a top professional in the tech world.
+- 🔭 I started my journey working as a front-end developer in a startup, where I gained hands-on experience with real projects and team collaboration.
 
-Here’s a little about me:
+- 💻 I work mainly with HTML, CSS, JavaScript, and React, and I have experience integrating APIs and working with Git.
 
-- 🔭 My journey began as a front-end dev in a startup, where I deeply learned the fundamentals of frontend development.
-- 🚀 As a personal improve, I’m working on my academic React projects, starting to learn Next.js and using Chakra.
+- 🚀 Currently, I’m improving my React skills, learning Next.js, and exploring UI libraries like Chakra UI.
 
-- 🌱 I’m studying a higher technical degree in programming, where I’m learning more about object-oriented programming and system development in JS and C#.
-- 👾 My goal is to continue advancing in my career by mastering modern web development technologies, contributing to open-source projects, and becoming a well-rounded full-stack developer.
+- 🌱 I’m finishing a Higher Technical Degree in Programming, where I’m learning more about object-oriented programming and system development with JavaScript and C#.
 
-- 👯 I’m looking to collaborate on open-source front-end projects or any interesting full-stack web development initiatives to challenge myself and learn from others.
-- 📫 Looking forward to new opportunities and work. You can reach me through my GitHub or my [LinkedIn](https://www.linkedin.com/in/leanbilokapic/).
+- 👾 My goal is to keep growing as a developer, build real-world projects, and move towards full-stack development.
 
-- ⚡ Fun fact: I lived in Croatia for 4 years but I’m originally from Argentina. I have a deep interest in coding, and I’m also passionate about drawing, nature, and the Pokémon TCG!
+- 👯 I’m open to collaborating on front-end or full-stack projects where I can learn and contribute.
 
-## #30NitesOfCode:
-  ![@leanXXII #30NitesOfCode](https://www.codedex.io/api/petStatus?user=leanXXII)
+- 📫 You can reach me through my GitHub or my [LinkedIn](https://www.linkedin.com/in/leanbilokapic/)
